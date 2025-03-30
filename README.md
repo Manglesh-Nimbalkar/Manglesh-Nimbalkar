@@ -18,7 +18,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [KaranGulve4342.tech](https://karan-portfolio-cyan.vercel.app) -->
 
-- 📫 How to reach me **www.mangleshnimbalkar2004@gmail.com**
+- 📫 How to reach me **mangleshnimbalkar123@gmail.com**
 
 - 📄 Know about my experiences [My Resume..](https://drive.google.com/file/d/17i4Lm3AJBlJFJ96dAJuxA_vSTHvjMpzB/view?usp=sharing)
 
